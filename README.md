@@ -1,4 +1,4 @@
-# 🧠 SchemaSense
+# 🧠 DBSchemaSense
 
 **Natural Language → SQL using MySQL, Qdrant, and Ollama**
 
